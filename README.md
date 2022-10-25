@@ -13,3 +13,6 @@ The purpose of this project is to find the temperature Statistics mid year(June)
 
 <img width="257" alt="Screen Shot 2022-10-25 at 6 19 29 PM" src="https://user-images.githubusercontent.com/112028108/197893013-ec34aa20-c5e8-40c3-9f2a-af9f58449dd0.png">
 
+
+
+From the above two analysis we can see that the there isn't much  big difference and the temperture only varies by 4 degrees so the surf business should be good to run in month of December too.
